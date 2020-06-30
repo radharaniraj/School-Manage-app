@@ -1,11 +1,11 @@
-#School Management Android App
+# School Management Android App
 
 This app is for students where students can login and view their Homeworks, Attendance and complaints given by their teacher.
 
 Libraries used: <br>
 Recyclerview <br>
-Retrofit <br>
-GSON API Converter <br>
+Retrofit [Docs](http://square.github.io/retrofit/2.x/retrofit/) <br>
+GSON API Converter [Docs](https://www.javadoc.io/doc/com.google.code.gson/gson) <br>
 
 App has following Activities in working condition:
 1. Homework
