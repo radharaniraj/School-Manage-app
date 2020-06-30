@@ -7,7 +7,4 @@ Retrofit
 GSON API Converter
 
 Screenshots:
-![Home Screen](https://i.ibb.co/stCnWJ7/schoolappss.jpg)
-
-
-
+![Home Screen](https://github.com/radharaniraj/School-Manage-app/blob/master/schoolappss.jpeg)
