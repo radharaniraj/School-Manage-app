@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Schoolnode</string>
+    <string name="home_work">Home Work</string>
+    <string name="attendance">Attendance</string>
+    <string name="fees">Fees</string>
+    <string name="complaints">Complaints</string>
+    <string name="holidays">Holidays</string>
+    <string name="e_content">e-Content</string>
+    <string name="profile">Profile</string>
+    <string name="marks">Marks</string>
+    <string name="change_password">Change Password</string>
+    <string name="user_name">Shubham Raj</string>
+    <string name="full_name">Shubham Raj Singh</string>
+    <string name="user_email_id">shubham@gmail.com</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="school_name">Asian School</string>
+    <string name="logout_toast">Logging Out User</string>
+</resources>
